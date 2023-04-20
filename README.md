@@ -18,4 +18,7 @@ experience
 ![firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 
-follow me links
+### My social media
+
+![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=0774db)
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=0EA5E9)
