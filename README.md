@@ -20,5 +20,6 @@ experience
 
 ### My social media
 
-![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=0774db)
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=0EA5E9)
+[![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk&logoColor=0774db)](https://vk.com/provider1)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=0EA5E9)](https://t.me/LoAlexander)
+[![Whatshapp](https://img.shields.io/badge/-Whatshapp-090909?style=for-the-badge&logo=whatsapp&logoColor=539E43)](https://wa.me/+79107211642)
