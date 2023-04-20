@@ -2,7 +2,8 @@
 
 ## I`m beginner Frontend Developer
 
-experience
+### Experience 
+I have 1.5 years of **JavaScript** development experience and 1 year of ReactJS development experience. Developed own pet projects and user interfaces on the technology stack: **HTML**, **CSS**, **JavaScript**, **ReactJS**, **Redux**, **TypeScript**. There is experience in using the **REST API** and **Firebase**. Also, I used tools such as **Figma** and Photoshop to create layouts and process graphic elements.
 
 ### My technogoly stack
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
