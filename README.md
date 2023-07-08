@@ -1,6 +1,6 @@
 ![Header](https://github.com/Wthrud05/Wthrud05/blob/main/assets/giphy.gif)
 
-## I`m beginner Frontend Developer
+## I`m Frontend Developer
 
 ### Experience 
 I have 1.5 years of **JavaScript** development experience and 1 year of ReactJS development experience. Developed own pet projects and user interfaces on the technology stack: **HTML**, **CSS**, **JavaScript**, **ReactJS**, **Redux**, **TypeScript**. There is experience in using the **REST API** and **Firebase**. Also, I used tools such as **Figma** and Photoshop to create layouts and process graphic elements.
